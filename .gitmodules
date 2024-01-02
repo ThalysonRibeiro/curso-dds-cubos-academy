@@ -1,0 +1,6 @@
+[submodule "ecercicios/exercicios-backend-condicionais"]
+	path = ecercicios/exercicios-backend-condicionais
+	url = git@github.com:cubos-academy/exercicios-backend-condicionais.git
+[submodule "ecercicios/exercicios-backend-variaveis"]
+	path = ecercicios/exercicios-backend-variaveis
+	url = git@github.com:cubos-academy/exercicios-backend-variaveis.git
