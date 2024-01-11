@@ -6,3 +6,5 @@ var mestre = 123;
 let texto = 1;
 let texte = 2
 const teste = 31;
+
+const uma = 0;
