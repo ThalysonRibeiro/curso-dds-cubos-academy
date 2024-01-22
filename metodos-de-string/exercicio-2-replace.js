@@ -1,4 +1,4 @@
-//Em alguns outro spaies é comum que se ultilize cirgul a ao invés de ponto para separação das casas decimais.
+//Em alguns outros paies é comum que se ultilize virgul a ao invés de ponto para separação das casas decimais.
 //faça um programa que altera uma string desse formato para o formato que estamos constumados no brasil com pornot.
 //por exemplo, o numero 1,350,000 deve ser transformado para 1.350.000.
 

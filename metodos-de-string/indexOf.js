@@ -1,4 +1,4 @@
-//ser para saber em qual indece estaá o texto que procura, se não tiver rerotorna +1
+//serve para saber em qual indece está o texto que procura, se não tiver rerotorna +1
 
 "eu vou ganhar 100k no preocesso".indexOf(ganhar);
 // saber se o email é valido
