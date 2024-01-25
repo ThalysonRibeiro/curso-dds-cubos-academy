@@ -1,0 +1,13 @@
+// length(propriedade)
+// push() - insere no Fim
+// pop() remove do Fim
+// unshift() - inserde o inicio
+// shift() - remove do inicoo
+
+// indexOf() e includes()
+// concat()
+// splice()
+// join()
+// reverse()
+// slice()
+// toString()
