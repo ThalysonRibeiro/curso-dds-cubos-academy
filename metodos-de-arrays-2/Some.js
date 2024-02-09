@@ -1,4 +1,4 @@
-//Testa se ao mesnos um dos elemen tos do array passam pelo teste implementado na função callback, passada como argumneto e retorna true ou false
+//Testa se ao mesnos um dos elemento do array passam pelo teste implementado na função callback, passada como argumneto e retorna true ou false
 const letras = ['a', 'b', 'c'];
 
 letras.some(function (elementoAtual) {

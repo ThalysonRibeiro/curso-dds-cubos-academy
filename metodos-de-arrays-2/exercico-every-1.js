@@ -19,7 +19,7 @@ const usuarios = [
     }
 ];
 
-function fiscalizacaoDaFesra(array) {
+function fiscalizacaoDaFesta(array) {
 
 
     const checagemDeIdade = usuarios.every(function (ElementoAtual) {
@@ -36,4 +36,4 @@ function fiscalizacaoDaFesra(array) {
     }
 }
 
-fiscalizacaoDaFesra(usuarios);
+fiscalizacaoDaFesta(usuarios);
