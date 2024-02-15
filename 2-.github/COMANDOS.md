@@ -1,0 +1,55 @@
+CLI = COMMAND LINE INTERFACE.
+
+CODIGOS TERMINAL WINDOWS
+
+--version = testar programas 
+**DIR** = LISTAR ARQUIVOS DA PASTA.
+**CD** DIRETORIO = ENTRAR NO DIRETORIO.
+**CD ..** = SAIR DO DIRETORIO
+**CLS** = LIMPAR TERMINAL.
+**code** . = abrir diretorio no vscode
+**mkdir** = criar nova pasta
+**echo >>** nome do arquivo = criar arquivo
+**rm** = apagar arquivo no diretorio
+
+##CODIGOS TERMINAL LINUX
+
+**ls** = listar pastas/conteudos
+**cd** nome da pasta pasta = entar na pasta
+**cd** = voltar
+**cd** /home/ nome da pasta = entar direro 
+*pwd* = identificar onde está
+**tab** = completa o caminho das pastas dentro das pastas
+**ls -a **= listar aqruiuvos ocultos
+**cd ..** = voltar
+**cd ../..** = voltar 2 passos 
+**cd ~** = modificar
+**mkdir** nome do diretorio = criar diretorio
+**code .** = abrir vscode
+ 
+##COMANDOS GIT
+
+**git init** = inicializa um novo repositorio local vazio.
+**git clone** = permite clonar/baixar um repositorio do servidor (remoto), no seu computador (local).
+**git status** = fornece todas a informações.
+**git add** = adiciona um ou mais arquivos na stage.
+**git add .** = adiciona tudo.
+**git reset** = remove um ou mais arquvios da área de preparação(stage), voltando para not stage.
+**git reset .** = remove tudo.
+**git commit** = cria um "marco" na história do nosso projeto.
+**git commit -m** "mensagem" = cria um "marco" com mensagem de idebtificação da modificação.
+**git remote add origin + url** = vincula o repositório local a um repositório remoto.
+**git push** = envia todas as alterações do repositório local para o repositório remoto.
+**git pull** = baixar todas as alterações do respositório remoto para repositório local.
+**git pull origin master** = atualizar reposotório local.
+**git checkout** = permite a navegação entre branhs existentes e também possibilita criação de novas.
+**git checkout -B** NOME da branhs = criar nova branhs.
+
+## Anotação do curso.
+
+node.js é um interpretador de javascript.
+assim como precisamos do "word" para abrir arquivos ",DOC", precisamos de um programapara executar arquivos javascript.
+
+
+
+
