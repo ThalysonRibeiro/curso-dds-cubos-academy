@@ -1,5 +1,5 @@
 
-![README do curso](baner.png)
+![README do curso](1baner.png)
 
 #<span style="color:#7F13DE">curso-dds-cubos-academy</span>
 <span style="color:#fff">
