@@ -100,6 +100,6 @@ NPM, Pacotes, Site NPM, Primeiro projeto com o NPM, Package.json, Gitignore, Exe
 
 - ### <span style="color:#ff6600">25 Rotas intermediarios e Controladores</span>
 
-Rotas e Controladores, Configuração inicial do servidor, Informações da Requisição, Nodemon, Insomnia, Parâmetros de rotas no Express.js, Parâmetros de Consulta no Express.js
+Rotas e Controladores, Configuração inicial do servidor, Informações da Requisição, Nodemon, Insomnia, Parâmetros de rotas no Express.js, Parâmetros de Consulta no Express.js, rganização dos Controladores, Intermediários, Intermediários independentes, Intermediários na rota, Exercício resolvido 1, Exercício resolvido 2
 
 </span>
