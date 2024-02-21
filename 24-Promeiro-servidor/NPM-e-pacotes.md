@@ -16,4 +16,9 @@
 
 **.gitignore** - para ignorar arquivos, não envia para o github
 
+## Criar servidor
 
+**npm init -y** - cria com suas sujestões.
+**.gitignore** - para ignorar arquivos, não envia para o github
+**npm install express** - biblioteca
+**npm install -D nodemon** - biblioteca para auxiliar no desenvolvimento do projeto
