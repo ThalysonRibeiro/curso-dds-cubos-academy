@@ -1,9 +1,17 @@
-
-![README do curso](1baner.png)
-
 # `curso-dds-cubos-academy`
-
 Arquivos e coisas relacionadas ao curso da cubos academy
+
+-  `Bibliotecas usadas`
+* Lodash - https://lodash.com
+* Express - https://expressjs.com/pt-br/
+* nodemon - https://www.npmjs.com/package/nodemon
+-D para desenvolvimento.
+* utils-playground - https://snyk.io/advisor/npm-package/utils-playground
+* file system - https://nodejs.reativa.dev/0046-node-module-fs/index
+É uma **biblioteca nativa** do **Node.js** que permite interagir com arquibos do sistema, como por exemplo, **ler, criar, escrever e ler.**
+
+
+
 
 
 - ### `1 Setup de ferramentas`
@@ -382,4 +390,17 @@ API Pokemon
 
 - ### `31 - Leitura e Escrita em Arquivos`
 
-Introdução
+Introdução, 
+File System, 
+Leitura de arquivos, 
+Leitura de arquivos com promises, 
+Buffer, 
+JSON parse e stringify, 
+Escrita em arquivos, 
+Try Catch e Finally ,
+Exemplo de uso do try catch e finally ,
+Exercício resolvido
+
+- ### `32 - Leitura e Escrita em Arquivos - Resoluções dos Exercícios`
+
+exercicios
