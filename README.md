@@ -404,3 +404,30 @@ Exercício resolvido
 - ### `32 - Leitura e Escrita em Arquivos - Resoluções dos Exercícios`
 
 exercicios
+
+- ### `33 - Datas em JS`
+
+
+Momento vs Data, 
+Como criar datas com o momento atual, 
+Como criar datas passando números para ano, mes, dia etc, 
+Exercício resolvido 1, 
+Como criar datas a partir de Timestamps, 
+Exercício resolvido 2, 
+Como criar datas a partir de texto, 
+RESUMÃO de como criar datas, 
+Comparando datas, 
+Getters e Setters para datas, 
+Conhecendo o date-fns, 
+Importando o date-fns, 
+Date-fns - format, 
+Date-fns - parse, 
+Date-fns - add, 
+Date-fns - addBusinessDays, 
+Date-fns - difference, 
+Date-fns - set, 
+Date-fns - isSame, 
+Date-fns - isAfter - isBefore, 
+Date-fns - startOf e endOf, 
+Fusos horários e o JS, 
+Atenção ao converter para outras Timezones, 
